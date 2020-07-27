@@ -1,0 +1,61 @@
+body {
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+.nav-bar-card {
+	padding: 20px 16px;
+	box-shadow: 3px 2px 5px grey;
+	margin: -10px -13px;
+	width: 100%;
+}
+
+.nav-bar-right-side {
+	float: right;
+}
+
+.nav-bar-button {
+	text-align: center;
+	text-decoration: none;
+	padding: 14px 16px;
+	color: black;
+}
+
+header {
+	position: absolute;
+}
+
+.header-image {
+	margin: 17px 150px;
+	opacity: 0.8;
+}
+
+.header-text {
+	position: absolute;
+	top: 26%;
+	width: 100%;
+  	text-align: center;
+  	font-size: 300px;
+  	color: white;
+  	text-shadow: 5px 5px 5px #000000;
+}
+
+.explore-area {
+	margin: 870px 200px;
+}
+
+.explore-card {
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  float: left;
+  margin: 45px;
+}
+
+.explore-card-label {
+  padding: 10px;
+}
+
+.explore-card-image {
+	width: 100%;
+	opacity: 0.9;
+}

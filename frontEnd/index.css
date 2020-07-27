@@ -20,9 +20,6 @@ body {
 	color: black;
 }
 
-header {
-	position: absolute;
-}
 
 .header-image {
 	margin: 17px 150px;
@@ -31,7 +28,7 @@ header {
 
 .header-text {
 	position: absolute;
-	top: 27%;
+	top: 26%;
 	width: 100%;
   	text-align: center;
   	font-size: 300px;
